@@ -1,4 +1,5 @@
-provider "aws" {
+# Updated bucket configuration
+iprovider "aws" {
   region = "ap-south-1"
 }
 
